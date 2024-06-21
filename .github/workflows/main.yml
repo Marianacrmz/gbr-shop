@@ -32,7 +32,7 @@ jobs:
         run: npm install 
 
       - name: Construir aplicacion
-        run: npm build:prod
+        run: npm run build:prod
 
       - name: GitHub Pages
       # You may pin to the exact commit or the version.
