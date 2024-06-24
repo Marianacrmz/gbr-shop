@@ -1,5 +1,5 @@
 # Configuración
-La aplicación permitirá registrarse e ingresar utilizando mariana
+La aplicación permitirá registrarse e ingresar utilizandO REVISION
 
 ```
 git clone git clone https://github.com/Entornos-Virtuales-Utng/gbr-shop.git
